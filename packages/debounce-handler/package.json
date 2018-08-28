@@ -1,5 +1,5 @@
 {
-  "name": "@hocs/debounce-handler",
+  "name": "@znemz/debounce-handler",
   "version": "0.4.1",
   "description": "Debounce handler HOC for React and React Native",
   "keywords": [
